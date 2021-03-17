@@ -1,0 +1,20 @@
+{
+  "name": "sniper",
+  "version": "1.0.0",
+  "description": "Simple single file bot to spawn, level &amp; snipe PokeCord Pokemon",
+  "main": "sniper.js",
+  "scripts": {
+    "start": "node sniper.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "node-fetch": "^2.6.1"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "devDependencies": {},
+  "keywords": []
+}

@@ -9,13 +9,13 @@ sniper.enablecatch = true;
 sniper.enablespam = true;
 sniper.enablelogs = true;
 sniper.spawn = '713306523413250068';
-sniper.spam = ['channel id'];
-sniper.spamtime = 15000;
+sniper.spam = ['804823552062521384'];
+sniper.spamtime = 7500;
 sniper.logs = '713306841706397697';
 sniper.pokeprefix = '.';
 sniper.botprefix = '>';
-sniper.playing = 'owo khelne do bosdivalo';
-sniper.token = 'your token';
+sniper.playing = 'playing on bed with owo';
+sniper.token = 'ODIxNjY4NDk2MzI0MDM0NTcw.YFHIIw.BKv2ysnx6pVNcApas1aBs4jcN6A';
 sniper.owner = '6768775720213413888';
 // Text to spam
 

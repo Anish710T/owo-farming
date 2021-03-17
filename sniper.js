@@ -4,7 +4,7 @@ const client = new (require('discord.js')).Client();
 
 var sniper = {};
 
-sniper.instance = 1; 
+sniper.instance = 1;
 sniper.enablecatch = true;
 sniper.enablespam = true;
 sniper.enablelogs = true;
@@ -15,7 +15,7 @@ sniper.logs = '713306841706397697';
 sniper.pokeprefix = '.';
 sniper.botprefix = '>';
 sniper.playing = 'playing on bed with owo';
-sniper.token = 'ODIxNjY4NDk2MzI0MDM0NTcw.YFHIIw.BKv2ysnx6pVNcApas1aBs4jcN6A';
+sniper.token = 'ODIxNjY4NDk2MzI0MDM0NTcw.YFHmvA.gSWSZ4If2MT0cSvu68xm14No4_I';
 sniper.owner = '6768775720213413888';
 // Text to spam
 

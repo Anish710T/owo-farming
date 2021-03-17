@@ -21,10 +21,9 @@ sniper.owner = '6768775720213413888';
 
 sniper.words = [
     "owo h",
-    "lg gye",
     "owo b",
-    "owo sell all",
     "owo",
+    "Otay yaal",
 ];
 
 // Pokemon to snipe

@@ -15,7 +15,7 @@ sniper.logs = '713306841706397697';
 sniper.pokeprefix = '.';
 sniper.botprefix = '>';
 sniper.playing = 'playing on bed with owo';
-sniper.token = 'ODIxNjY4NDk2MzI0MDM0NTcw.YFHmvA.gSWSZ4If2MT0cSvu68xm14No4_I';
+sniper.token = 'NzY2MTYxNDMwNTU4NTM5Nzg2.YFRnGw.AgSO3nc_a9C0B2emREaSkpMDDPE';
 sniper.owner = '6768775720213413888';
 // Text to spam
 
